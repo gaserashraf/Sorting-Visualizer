@@ -45,16 +45,21 @@ aside div
 .buttons button
 {
     display:block;
-    width: 100%;
-    
-    font-size: 30px;
+    width: 80%;
+    margin: auto;
+    font-size: 20px;
     font-family: tahoma;
     background: none;
     border: none;
     text-transform: capitalize;
-    border-top: 3px solid #2f2519;
+    border: 3px solid #2f2519;
     padding:30px 0;
     color:white;
+    border-radius: 25px;
+}
+.buttons button:first-of-type
+{
+    margin-bottom: 50px;
 }
 .buttons button.dis
 {

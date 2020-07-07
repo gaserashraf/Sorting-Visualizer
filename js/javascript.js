@@ -58,6 +58,7 @@ function updateInput()
 arrSizeInput.oninput=updateInput;
 speedInput.oninput=function(){
     spanSpeedVal.textContent=spe=parseInt(speedInput.value);
+    
 }
 
 // genetete random arr
