@@ -3,6 +3,7 @@
 ## Build with
 * vanilla javascript
 ## Screen Shots
-![1](ss/1.PNG)
-![2](ss/2.PNG)
+![1](ss/3.PNG)
+![2](ss/4.PNG)
+![3](ss/5.PNG)
 ![demo](ss/gif.gif)
